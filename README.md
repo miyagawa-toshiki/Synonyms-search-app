@@ -13,9 +13,11 @@ python -m http.server --cgi 8888</br>
 ###Serving HTTP on :: port 8888 (http://[::]:8888/)###
 
 これが出てきたらブラウザで
-http://localhost:8888/cgi-bin/index.py
+http://localhost:8888/cgi-bin/index.pyと検索
 
-と検索
+pythonは自分の環境に合わせる。一行目を自分用に変える
+
+
 
 
 
