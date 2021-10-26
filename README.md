@@ -1,3 +1,4 @@
 # Synonyms-search-app
 
-<h1>cgiとは</h1>
+<!--<h1>cgiとは</h1>-->
+
