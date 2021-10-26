@@ -1,2 +1,3 @@
 # Synonyms-search-app
-cgiでブラウザに表示する
+
+<h1>cgiとは</h1>
